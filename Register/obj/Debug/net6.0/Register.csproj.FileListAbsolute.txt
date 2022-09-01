@@ -1,0 +1,15 @@
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\bin\Debug\net6.0\Register.exe
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\bin\Debug\net6.0\Register.deps.json
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\bin\Debug\net6.0\Register.runtimeconfig.json
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\bin\Debug\net6.0\Register.dll
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\bin\Debug\net6.0\Register.pdb
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\Register.csproj.AssemblyReference.cache
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\Register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\Register.AssemblyInfoInputs.cache
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\Register.AssemblyInfo.cs
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\Register.csproj.CoreCompileInputs.cache
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\Register.dll
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\refint\Register.dll
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\Register.pdb
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\Register.genruntimeconfig.cache
+C:\Users\Lwhite5\Desktop\Projects\Week5_Labs\Register\obj\Debug\net6.0\ref\Register.dll
